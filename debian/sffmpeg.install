@@ -1,3 +1,4 @@
 build/bin/ffmpeg /usr/bin
 build/bin/ffprobe /usr/bin
 build/bin/frmxtract /usr/bin
+build/vmaf-prefix/src/vmaf/model/* /usr/local/share/model/
